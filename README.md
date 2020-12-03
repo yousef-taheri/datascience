@@ -23,7 +23,7 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 ## Reinfrocement learning
 <br/>
 <p align="center">
-  <img src="Images/Rl.jpg" width="500">
+  <img src="Images/Rl.png" width="500">
 </p>
 
 
