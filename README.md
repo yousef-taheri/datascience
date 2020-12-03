@@ -40,5 +40,5 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 |code|describtion|language|libraries|
 |----|-----------|--------|---------|
 |hello.py|a code to bla bla| python|sklearn, numpy|
-|hello.py|a code to bla bla| ![Rlogo](R.png?raw=true "Title")|sklearn, numpy|
+|hello.py|a code to bla bla| ![Rlogo](R.png?raw=true "Title"| width=100)|sklearn, numpy|
 
