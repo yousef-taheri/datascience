@@ -15,12 +15,26 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 
 
 ## Deep learning
+
+
+<br/>
+<p align="center">
+  <img src="https://technopremium.com/blog/wp-content/uploads/2019/06/reinforcement_diagram.png">
+</p>
+
 ## Reinfrocement learning
 
 <br/>
 <p align="center">
   <img src="https://whataftercollege.com/wp-content/uploads/2020/05/Classification-of-Machine-Learning.jpg">
 </p>
+
 ## Machine learning
+
+<br/>
+<p align="center">
+  <img src="https://wumbo.net/images/standard-normal-distribution.svg">
+</p>
+
 ## Statistics
 
