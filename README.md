@@ -40,4 +40,4 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 |code|describtion|language|libraries|
 |----|-----------|--------|---------|
 |hello.py|a code to bla bla| python|sklearn, numpy|
-|hello.py|a code to bla bla| ![](https://github.com/YoTaSo/datascience/raw/main/R.png)|sklearn, numpy|
+|hello.py|a code to bla bla| ![Rlogo](R.png)|sklearn, numpy|
