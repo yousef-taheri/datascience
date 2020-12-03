@@ -8,14 +8,15 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 * [Reinforcemnet learning](#reinfrocement-learning)
 * [Statistics](#statistics)
 
-<br/>
-<p align="center">
-  <img src="https://miro.medium.com/max/6000/1*1mpE6fsq5LNxH31xeTWi5w.jpeg">
-</p>
+
 
 
 ## Deep learning
 
+<br/>
+<p align="center">
+  <img src="Images/dl.jpg" width="200">
+</p>
 
 <br/>
 <p align="center">
