@@ -40,3 +40,4 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 |code|describtion|language|libraries|
 |----|-----------|--------|---------|
 |hello.py|a code to bla bla| python|sklearn, numpy|
+|hello.py|a code to bla bla| ![]https://du-bii.github.io/module-3-Stat-R/img/R_logo.svg|sklearn, numpy|
