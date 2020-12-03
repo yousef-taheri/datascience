@@ -10,17 +10,17 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 
 <br/>
 <p align="center">
-  <img src="http://i.imgur.com/ZhKXrKZ.png">
-</p>
-<br/>
-<p align="center">
   <img src="https://miro.medium.com/max/6000/1*1mpE6fsq5LNxH31xeTWi5w.jpeg">
 </p>
 
 
-
 ## Deep learning
 ## Reinfrocement learning
+
+<br/>
+<p align="center">
+  <img src="https://whataftercollege.com/wp-content/uploads/2020/05/Classification-of-Machine-Learning.jpg">
+</p>
 ## Machine learning
 ## Statistics
 
