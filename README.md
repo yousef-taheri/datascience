@@ -4,11 +4,10 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 ## Index
 
 * [Deep learning](#deep-learning)
-
 * [Reinforcemnet learning](#reinfrocement-learning)
 * [Machine learning](#machine-learning)
-* [Big Data](#(Large-scale) databases)
-* [Statistics and Inference](#statistics)
+* [Big Data](#(Large-scale)-databases)
+* [Statistics and Inference](#statistics-and-infernce)
 
 
 
