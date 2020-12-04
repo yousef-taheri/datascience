@@ -8,6 +8,7 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 * [Machine learning](#machine-learning)
 * [Big Data](#big-data)
 * [Statistics and Inference](#statistics-and-infernce)
+* [Data visualization](#data-visualization)
 
 
 
@@ -36,7 +37,7 @@ here I share reinforcement learning codes
 |code|describtion|language|libraries|
 |----|-----------|--------|---------|
 |hello.py|a code to bla bla| <img src="Images/R.png" width="40">|<img src="Images/openai-gym.png" width="40">, <img src="Images/numpy.png" width="40">|
-|hello.py|a code to bla bla| <img src="Images/python.png" width="40">|<img src="Images/openai-gym.png" width="40">, <img src="Images/pytorch.png" width="40">|
+|hello.py|a code to bla bla| <img src="Images/python.png" width="40">|<img src="Images/openai-gym.png" width="48">, <img src="Images/pytorch.png" width="40">|
 
 ## Big data
 <br/>
@@ -64,7 +65,7 @@ here I share ML codes
 |hello.py|a code to bla bla| <img src="Images/R.png" width="48">|sklearn, numpy|
 |hello.py|a code to bla bla| <img src="Images/python.png" width="48">|sklearn, numpy|
 
-## Statistics and Inference
+## Statistics/Inference
 
 <br/>
 <p align="center">
@@ -77,5 +78,14 @@ here I share Statistics codes
 |hello.py|a code to bla bla| <img src="Images/R.png" width="48">|sklearn, numpy|
 |hello.py|a code to bla bla| <img src="Images/python.png" width="48">|sklearn, numpy|
 
+## Data visualization
+<br/>
+<p align="center">
+  <img src="Images/visualization.png" width="500">
+</p>
+here I share visuzalization code
 
-
+|code|describtion|language|libraries|
+|----|-----------|--------|---------|
+|hello.py|a code to bla bla| <img src="Images/R.png" width="48">|sklearn, numpy|
+|hello.py|a code to bla bla| <img src="Images/python.png" width="48">|sklearn, numpy|
