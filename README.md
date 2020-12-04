@@ -6,7 +6,7 @@ here I share my codes and notebooks from the courses that I have taken or the pr
 * [Deep learning](#deep-learning)
 * [Reinforcemnet learning](#reinfrocement-learning)
 * [Machine learning](#machine-learning)
-* [Big Data](#(Large-scale)-databases)
+* [Big Data](#big-data)
 * [Statistics and Inference](#statistics-and-infernce)
 
 
@@ -38,7 +38,7 @@ here I share reinforcement learning codes
 |hello.py|a code to bla bla| <img src="Images/R.png" width="40">|<img src="Images/openai-gym.png" width="40">, <img src="Images/numpy.png" width="40">|
 |hello.py|a code to bla bla| <img src="Images/python.png" width="40">|<img src="Images/openai-gym.png" width="40">, <img src="Images/pytorch.png" width="40">|
 
-## (Large-scale) databases
+## Big data
 <br/>
 <p align="center">
   <img src="Images/bigdata.png" width="500">
