@@ -46,8 +46,8 @@ here I share big data codes
 
 |code|describtion|language|libraries|
 |----|-----------|--------|---------|
-|hello.py|a code to bla bla| <img src="Images/R.png" width="48">|sklearn, numpy|
-|hello.py|a code to bla bla| <img src="Images/python.png" width="48">|sklearn, numpy|
+|hello.py|a code to bla bla| <img src="Images/neo4j.png" width="40">|sklearn, numpy|
+|hello.py|a code to bla bla| <img src="Images/scala.png" width="40">|sklearn, numpy|
 
 
 ## Machine learning
