@@ -51,8 +51,7 @@ here I share reinforcement learning codes
 |[qlearning.ipynb](https://github.com/YoTaSo/datascience/blob/main/rl/qlearning.ipynb)|Qlearning algorithm, including versions basic, *SARSA*, *Dyna-Q*. gridworld environment| <img src="https://mohitd.github.io/images/reinforcement-learning/gridworld.svg" width="100"> | <img src="Images/python.png" width="30">|<img src="Images/openai-gym.png" width="70">,  <img src="Images/numpy.png" width="40">|
 |[DQN_cartpole.ipynb](https://github.com/YoTaSo/datascience/blob/main/rl/DQN_cartpole.ipynb)|DQN algorithm on cartpole environment| <img src="https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/CartPole-v1/poster.jpg" width="100"> | <img src="Images/python.png" width="30">|<img src="Images/openai-gym.png" width="70">,  <img src="Images/pytorch.png" width="70">|
 |[DQN_gridworld.ipynb](https://github.com/YoTaSo/datascience/blob/main/rl/DQN_gridworld.ipynb)|DQN algorithm on gridworld environment| <img src="https://mohitd.github.io/images/reinforcement-learning/gridworld.svg" width="100"> | <img src="Images/python.png" width="30">|<img src="Images/openai-gym.png" width="70">,  <img src="Images/pytorch.png" width="70">|
-
-
+|[DDPG_continiousEnv.ipynb](https://github.com/YoTaSo/datascience/blob/main/rl/DDPG_continiousEnv.ipynb)|Deep deterministic policy gradient algorithm on mountain car and LunarLander environment| <img src="https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/MountainCarContinuous-v0/poster.jpg" width="80">,<img src="https://gym.openai.com/videos/2019-10-21--mqt8Qj1mwo/LunarLander-v2/poster.jpg" width="80"> | <img src="Images/python.png" width="30">|<img src="Images/openai-gym.png" width="70">,  <img src="Images/pytorch.png" width="70">|
 
 
 
