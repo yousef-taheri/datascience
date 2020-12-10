@@ -45,9 +45,9 @@ here I share deep learning codes
 </p>
 here I share reinforcement learning codes
 
-|code|describtion|language|libraries|
-|----|-----------|--------|---------|
-|[policy_value_iteration.ipynb](https://github.com/YoTaSo/datascience/blob/main/rl/policy_value_iteration.ipynb)|Policy iteration and Value iteration algorithmes on Grid world environment| <img src="Images/python.png" width="30">|<img src="Images/openai-gym.png" width="70">,  <img src="Images/numpy.png" width="40">|
+|code|describtion|environment|language|libraries|
+|----|-----------|--------|---------|---------|
+|[policy_value_iteration.ipynb](https://github.com/YoTaSo/datascience/blob/main/rl/policy_value_iteration.ipynb)|Policy iteration and Value iteration algorithmes on Grid world environment|<img src="https://mohitd.github.io/images/reinforcement-learning/gridworld.svg" width="100">| <img src="Images/python.png" width="30">|<img src="Images/openai-gym.png" width="70">,  <img src="Images/numpy.png" width="40">|
 |[qlearning.ipynb](https://github.com/YoTaSo/datascience/blob/main/rl/qlearning.ipynb)|Qlearning algorithm, including versions basic, *SARSA*, *Dyna-Q*. gridworld environment| <img src="Images/python.png" width="30">|<img src="Images/openai-gym.png" width="70">,  <img src="Images/numpy.png" width="40">|
 
 
