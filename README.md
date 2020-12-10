@@ -24,7 +24,7 @@ here I share deep learning codes
 
 |code|describtion|language|libraries|
 |----|-----------|--------|---------|
-|hello.py|In this notebook the usage of Dataset class in pytorch| <img src="Images/python.png" width="40">| <img src="Images/pytorch.png" width="40">|
+|[hello.py](https://github.com/YoTaSo/datascience/blob/main/deeplearning/pytorch_functions.ipynb)|In this notebook the usage of Dataset class in pytorch| <img src="Images/python.png" width="40">| <img src="Images/pytorch.png" width="40">|
 |hello.py|a code to bla bla| <img src="Images/python.png" width="40">|<img src="Images/pytorch.png" width="40">|
 
 ## Reinfrocement learning
