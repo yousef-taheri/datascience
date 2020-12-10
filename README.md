@@ -66,9 +66,9 @@ here I share big data codes
 
 |code|describtion|language|libraries|
 |----|-----------|--------|---------|
-|hello.py|a code to bla bla| <img src="Images/neo4j.png" width="40">|sklearn, numpy|
-|hello.py|a code to bla bla| <img src="Images/scala.png" width="40">|sklearn, numpy|
-
+|[scala_structure.ipynb](https://github.com/YoTaSo/datascience/blob/main/bigdata/scala_structure.ipynb)|Control structure in scala, map, reduce, flatten, filter, flatMap, Books database, spylon_kernerl is used | <img src="Images/scala.png" width="30">| <img src="Images/spark.png" width="30">|
+|[Spark_dataframe.ipynb](https://github.com/YoTaSo/datascience/blob/main/bigdata/Spark_dataframe.ipynb)|SQL query using spark dataframe API in scala, spylon_kernerl is used | <img src="Images/scala.png" width="30">| <img src="Images/spark.png" width="30">|
+|[scala_dataset.ipynb](https://github.com/YoTaSo/datascience/blob/main/bigdata/scala_dataset.ipynb)|semi-structred data in spark(Json), Dataset API | <img src="Images/scala.png" width="30">| <img src="Images/spark.png" width="30">|
 
 ## Machine learning
 
