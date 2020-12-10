@@ -28,7 +28,7 @@ here I share deep learning codes
 |[pytorch_autograd.ipynb](https://github.com/YoTaSo/datascience/blob/main/deeplearning/pytorch_autograd.ipynb)|PyTorch autograd and modules| <img src="Images/python.png" width="30">|<img src="Images/pytorch.png" width="50">|
 |[pytorch_autoencoder.ipynb](https://github.com/YoTaSo/datascience/blob/main/deeplearning/pytorch_autoencoder.ipynb)|Implementation of Autoencoder on MNIST dataset, Data management, Checkpointing and GPU| <img src="Images/python.png" width="30">|<img src="Images/pytorch.png" width="50">|
 |[highway_network.ipynb](https://github.com/YoTaSo/datascience/blob/main/deeplearning/highway_network.ipynb)|Implementation of [Highway networks](https://arxiv.org/pdf/1505.00387.pdf)| <img src="Images/python.png" width="30">|<img src="Images/pytorch.png" width="50">|
-|[pytorch_autograd.ipynb](https://github.com/YoTaSo/datascience/blob/main/deeplearning/pytorch_autograd.ipynb)|PyTorch autograd and modules| <img src="Images/python.png" width="30">|<img src="Images/pytorch.png" width="50">|
+|[rnn_classification.ipynb](https://github.com/YoTaSo/datascience/blob/main/deeplearning/rnn_classification.ipynb)|Recurrent neural networks, sequence classification, [temperature data](https://github.com/YoTaSo/datascience/blob/main/deeplearning/temprature_30.csv)| <img src="Images/python.png" width="30">|<img src="Images/pytorch.png" width="70">|
 
 
 
