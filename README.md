@@ -25,7 +25,8 @@ here I share deep learning codes
 |code|describtion|language|libraries|
 |----|-----------|--------|---------|
 |[pytorch_functions.ipynb](https://github.com/YoTaSo/datascience/blob/main/deeplearning/pytorch_functions.ipynb)|Definition of functions in pyTorch| <img src="Images/python.png" width="30">| <img src="Images/pytorch.png" width="50">|
-|hello.py|a code to bla bla| <img src="Images/python.png" width="40">|<img src="Images/pytorch.png" width="40">|
+|[pytorch_autograd.ipynb](https://github.com/YoTaSo/datascience/blob/main/deeplearning/pytorch_autograd.ipynb)|PyTorch autograd and modules| <img src="Images/python.png" width="30">|<img src="Images/pytorch.png" width="50">|
+|[pytorch_autograd.ipynb](https://github.com/YoTaSo/datascience/blob/main/deeplearning/pytorch_autograd.ipynb)|PyTorch autograd and modules| <img src="Images/python.png" width="30">|<img src="Images/pytorch.png" width="50">|
 
 ## Reinfrocement learning
 <br/>
